@@ -1,5 +1,4 @@
-# PhoneChargeReminder
-Reminds user to charge their phone based on where they are and the phone's battery life
+This is an android app reminds user to charge their phone based on the user's location and the phone's battery life.
 
 # How it works
 
